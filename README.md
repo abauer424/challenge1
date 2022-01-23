@@ -1,4 +1,4 @@
-# Challenge: Cofe Refactor
+# Challenge: Code Refactor
 
 ## Description 
 
